@@ -19,3 +19,5 @@ https://www.texdev.net/2010/01/23/building-biblatex-biber/
 https://docstore.mik.ua/orelly/weblinux2/modperl/ch03_09.htm
 
 http://mirrors.ibiblio.org/CTAN/biblio/biber/documentation/biber.pdf
+
+https://github.com/gfx/perl.js/blob/master/Makefile.emcc
