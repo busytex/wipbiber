@@ -15,3 +15,5 @@ https://github.com/haukex/webperl/blob/master/build/build.pl
 http://lfs.phayoune.org/blfs/view/10.0/pst/biber.html
 
 https://www.texdev.net/2010/01/23/building-biblatex-biber/
+
+https://docstore.mik.ua/orelly/weblinux2/modperl/ch03_09.htm
