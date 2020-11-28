@@ -17,3 +17,5 @@ http://lfs.phayoune.org/blfs/view/10.0/pst/biber.html
 https://www.texdev.net/2010/01/23/building-biblatex-biber/
 
 https://docstore.mik.ua/orelly/weblinux2/modperl/ch03_09.htm
+
+http://mirrors.ibiblio.org/CTAN/biblio/biber/documentation/biber.pdf
