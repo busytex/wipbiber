@@ -23,3 +23,5 @@ http://mirrors.ibiblio.org/CTAN/biblio/biber/documentation/biber.pdf
 https://github.com/gfx/perl.js/blob/master/Makefile.emcc
 
 https://github.com/Perl/perl5/compare/blead...haukex:emperl_v5.30.0
+
+https://perldoc.perl.org/perlembed
